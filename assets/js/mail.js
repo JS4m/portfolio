@@ -1,4 +1,4 @@
-const firebaseConfig = {
+//const firebaseConfig = {
     //apiKey: "AIzaSyDqujJPBTh46vYJhvo5YSsuBhMz5eaMBpc",
     //authDomain: "abh1ram.firebaseapp.com",
     //projectId: "abh1ram",
@@ -7,7 +7,7 @@ const firebaseConfig = {
     //messagingSenderId: "1002929451452",
     //appId: "1:1002929451452:web:03a4e6ab5489e4a3be7bb9",
     //measurementId: "G-RG3NGCJ1J8"
-};
+//};
 
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
